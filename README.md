@@ -17,3 +17,4 @@ This work is published from:
   United States</span>.
 </p>
 
+ http://www.apache.org/licenses/LICENSE-2.0
